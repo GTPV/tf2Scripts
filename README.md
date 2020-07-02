@@ -3,14 +3,14 @@
 
 ## Current Scripts
 ### Null Movement Script
-*basic null movement script
+1. basic null movement script
 ### Viewmodel Script
-*basic viewmodel Script
-*without lastinv
-*hiding primary viewmodel, showing secondary and melee viewmodel
+1. basic viewmodel Script
+2. without lastinv
+3. hiding primary viewmodel, showing secondary and melee viewmodel
 ### Viewmodel Script with lastinv
-*advanced viewmodel Script
-*q(lastinv) is also redefined to hide primary and show secondary and melee
+1. advanced viewmodel Script
+2. q(lastinv) is also redefined to hide primary and show secondary and melee
 ### Medic teammate radar Script
-*basic radar Script
-*every teammate autocalls medic
+1. basic radar Script
+2. every teammate autocalls medic
